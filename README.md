@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced Frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alejandrofloresmtz94/portfolio](https://github.com/alejandrofloresmtz94/portfolio)
+<!---- 👨‍💻 All of my projects are available at [https://github.com/alejandrofloresmtz94/portfolio](https://github.com/alejandrofloresmtz94/portfolio) -->
 
 - 💬 Ask me about **Angular, React, Bootstrap.**
 
